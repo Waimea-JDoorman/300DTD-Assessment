@@ -11,4 +11,4 @@ It is a database-driven web app that allows users to:
 -Have a description
 -Forum to ask questions
 
-images/foreign.jfif
+![Alt text](images/foreign.jpg)
