@@ -12,29 +12,34 @@ Assessment Standards: **91902** and **91903**
 ## System Requirements
 
 ### Identified Need or Problem
-
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
-
-Exchange students can often feel overwhelmed by culture shock and other problems that come from living in a foreign country for the first time and often don't have an outlet to ask about the problems they're going through.
-
-### End-User Requirements
-
-Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
-
  
-
+Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
+ 
+Exchange students can often feel overwhelmed by culture shock and other problems that come from living in a foreign country for the first time and can struggle to find an outlet to ask about the problems they're going through.
+ 
+### End-User Requirements
+ 
+Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+ 
+Exchange students are students who go and study abroad to another school for any amount of time. Exchange students must be aged 14-18 and enrolled in year 9-13 or the overseas equivalent. They will all typically have a laptop on their exchange but will also want to use the website on their mobile device. Their IT experience can vary drastically so the system will have to be intuitive and easy to use.
+ 
 ### Proposed Solution
-
+ 
 Replace this text with a brief statement about the system that you intend to create, including the key functionality it should have.
-
-Create a message board where exchange students can make profiles and share their problems and people can reply.
-
-
+ 
+A website that acts as a message board for students to ask questions that are visible to anyone using the website and a reply function that allows anyone using the website to reply to their questions
+ 
+End-users should be able to:
+    -register/login to an account
+    -upload questions to the message board
+    -reply to questions on the message board
+    -a searching system to find previously asked questions
+ 
 -------------------------------------------------
-
+ 
 ## Relevant Implications
-
-### IMPLICATION NAME HERE
+    Usability
+    Cultural
 
 Replace this text with a clear explanation of what the implication means.
 
