@@ -40,6 +40,7 @@ End-users should be able to:
 ## Relevant Implications
     Usability
     Cultural
+    Functionality
 
 Replace this text with a clear explanation of what the implication means.
 
@@ -47,19 +48,19 @@ Replace this text with an explanation of why the implication is relevant to this
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
 
-### IMPLICATION NAME HERE
+### Usability
 
-Replace this text with a clear explanation of what the implication means.
+The usability implications for websites refers to how easy the website is to use without the need for a tutorial or outside help.
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+The usability implication is relevant because exchange students can come from a variety of different backgrounds where they may or may not have had as much access to technology as other people therefore the website following a basic, common structure will make it much more accessable to a wider range of end-users.
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
 
-### IMPLICATION NAME HERE
+### Cultural
 
-Replace this text with a clear explanation of what the implication means.
+The cultural implications for websites refer to keeping a websites content and design unoffensive to different cultures.
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+End-users typically being exchange students means that they will come from a wide variety of different backgrounds. This means that the design and content of the website will have to avoid being culturally insensitive. 
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
 
